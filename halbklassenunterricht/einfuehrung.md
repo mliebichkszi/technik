@@ -8,7 +8,7 @@ description: Woche 34
 
 **10.11.2021 Prüfung Programmieren**
 
-**19.01.2022 EV3 Projekt**
+**26.01.2022 EV3 Projekt**
 
 ## Bau des EV3 🤖 
 
