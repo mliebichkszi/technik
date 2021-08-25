@@ -206,5 +206,10 @@ t.back(100)
 
 ![Figur, die von obigen Programmen gezeichnet wird](../../.gitbook/assets/grafik%20%2819%29.png)
 
+{% hint style="info" %}
+**Neue Konzepte und Begriffe**
 
+* `for i in range (n)`ist eine Anweisung zur Repetition einer Anweisung, wobei `n`die Anzahl Wiederholungen angibt.
+* Die Anweisung nach `for i in range(n)`muss eingerückt sein. Die ganze Struktur nennt man eine _Schleife_. Der Python-Interpreter erkennt das Ende 
+{% endhint %}
 
