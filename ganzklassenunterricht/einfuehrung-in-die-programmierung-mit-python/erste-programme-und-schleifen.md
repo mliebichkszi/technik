@@ -177,12 +177,13 @@ Ein Programm kann man als eine Folge von Befehlen ansehen. Zum Zeichnen laden Si
 
 ### Einfache Schleifen
 
-Es gibt eine Möglichkeit, dem Rechner die Anweisung zu geben, dass er bestimmte Vorgänge beliebig viele Male wiederholen soll. So können Sie Programme schreiben, die kürzer und verständlicher sind. Mit der Anweisung repeat 3: sagen Sie dem Computer, dass er eine Folge von Befehlen dreimal wiederholen soll. Die zu wiederholenden Befehle stehen in den direkt folgenden Zeilen und müssen gegenüber der repea t-Anweisung nach rechts eingerückt sein. Studieren Sie die beiden folgenden Ausschnitte aus zwei Programmen. Sie führen genau die gleiche Tätigkeit aus:
+Es gibt eine Möglichkeit, dem Rechner die Anweisung zu geben, dass er bestimmte Vorgänge beliebig viele Male wiederholen soll. So können Sie Programme schreiben, die kürzer und verständlicher sind. Mit der Anweisung repeat 3: sagen Sie dem Computer, dass er eine Folge von Befehlen dreimal wiederholen soll. Studiere die beiden folgenden Ausschnitte aus zwei Programmen. Sie führen genau die gleiche Tätigkeit aus:
 
 ```python
 import turtle
 
 t = turtle.Turtle()
+
 forward(100)
 left(120)
 forward(l00)
@@ -192,5 +193,14 @@ left(120)
 back(100) 
 ```
 
+```python
+import turtle
 
+t = turtle.Turtle()
+
+for i in range(3):
+    forward(100)
+    left (120)
+back(100) 
+```
 
