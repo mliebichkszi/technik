@@ -204,3 +204,7 @@ for i in range(3):
 t.back(100) 
 ```
 
+![Figur, die von obigen Programmen gezeichnet wird](../../.gitbook/assets/grafik%20%2819%29.png)
+
+
+
