@@ -184,13 +184,13 @@ import turtle
 
 t = turtle.Turtle()
 
-forward(100)
-left(120)
-forward(l00)
-left(120)
-forward(100)
-left(120) 
-back(100) 
+t.forward(100)
+t.left(120)
+t.forward(100)
+t.left(120)
+t.forward(100)
+t.left(120) 
+t.back(100) 
 ```
 
 ```python
@@ -199,8 +199,8 @@ import turtle
 t = turtle.Turtle()
 
 for i in range(3):
-    forward(100)
-    left (120)
-back(100) 
+    t.forward(100)
+    t.left (120)
+t.back(100) 
 ```
 
