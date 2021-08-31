@@ -219,5 +219,16 @@ Wir wollen ein regelmässiges Vieleck wie das Sechseck in Abbildung A zeichnen l
 
 ![](../../.gitbook/assets/grafik%20%2820%29.png)
 
+```python
+import turtle
 
+t = turtle.Turtle()
+
+#mach 6mal:
+for i in range(6):
+  #das
+  print('hallo')
+  t.forward(100)
+  t.right(360/6)
+```
 
