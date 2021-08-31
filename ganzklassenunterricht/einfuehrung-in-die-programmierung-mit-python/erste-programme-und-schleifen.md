@@ -172,7 +172,7 @@ Zeichne ein Haus wie in der folgenden Abbildung. Die ausgefüllte Türe kannst d
 {% hint style="success" %}
 **Was du gelernt hast**
 
-Ein Programm kann man als eine Folge von Befehlen ansehen. Zum Zeichnen laden Sie zuerst die Turtle und öffnen ein neues Fenster. Danach steuern Sie die Turtle mit den Befehlen forward \(\), back \(\), left \(\) und right \(\). Mit setPenColor \(\) können Sie die Farbe des Stiftes ändern und mit setPenWidth \(\) geben Sie an, wie breit der Stift der Turtle sein soll.
+Ein Programm kann man als eine Folge von Befehlen ansehen. Zum Zeichnen lädst du zuerst die Turtle und öffnest ein neues Fenster. Danach steuerst du die Turtle mit den Befehlen forward \(\), back \(\), left \(\) und right \(\). Mit setPenColor \(\) kannnst du die Farbe des Stiftes ändern und mit setPenWidth \(\) gibst du an, wie breit der Stift der Turtle sein soll.
 {% endhint %}
 
 ### Einfache Schleifen
@@ -204,7 +204,7 @@ for i in range(3):
 t.back(100) 
 ```
 
-![Figur, die von obigen Programmen gezeichnet wird](../../.gitbook/assets/grafik%20%2819%29.png)
+![Figur, die vom Programm gezeichnet wird](../../.gitbook/assets/grafik%20%2819%29.png)
 
 {% hint style="info" %}
 **Neue Konzepte und Begriffe**
