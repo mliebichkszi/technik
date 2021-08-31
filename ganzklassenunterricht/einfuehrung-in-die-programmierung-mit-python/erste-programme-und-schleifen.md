@@ -213,3 +213,11 @@ t.back(100)
 * Die Anweisung nach `for i in range(n)`muss eingerückt sein. Die ganze Struktur nennt man eine _Schleife_. Der Python-Interpreter erkennt das Ende 
 {% endhint %}
 
+Wir wollen ein regelmässiges Vieleck wie das Sechseck in Abbildung A zeichnen lassen. Zunächst überlegen wir uns, um wie viel Grad sich die Turtle nach dem Zeichnen jeder Seite drehen muss \(siehe Abbildung B\). Damit ein regelmässiges Sechseck entsteht, müssen alle Winkel gleich gross sein. Am einfachsten gehen wir folgender­massen vor: Wir sehen, dass sich die Turtle genau k-mal um den gleichen Winkel drehen muss, wenn sie ein k-Eck zeichnet. Weil die Turtle wieder in der Start­position endet und somit beim Zeichnen einen Rundweg absolviert, hat sie am Schluss eine vollständige Drehung um 360° gemacht. Deswegen dreht sie sich
+
+![](../../.gitbook/assets/grafik%20%2821%29.png)
+
+![](../../.gitbook/assets/grafik%20%2820%29.png)
+
+
+
