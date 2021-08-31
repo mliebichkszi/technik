@@ -232,3 +232,5 @@ for i in range(6):
   t.right(360/6)
 ```
 
+Beachte, dass der Computer beim Aufruf von \`t.right\(360/6\) zuerst den Winkel berechnet \(also 60°\) und dann den Befehl right \(\) mit dem berechneten Parameterwert ausführt. Wir hätten also auch direkt right \( 60\) schreiben können. Durch das Ausschreiben der Rechnung geben wir einen Hinweis darauf, wie wir auf den Drehwinkel gekommen sind. Wir werden bald sehen, dass Berechnungen innerhalb von Programmen noch viel weitreichendere Vorteile bringen.
+
