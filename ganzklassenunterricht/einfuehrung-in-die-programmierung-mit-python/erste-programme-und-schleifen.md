@@ -232,5 +232,19 @@ for i in range(6):
   t.right(360/6)
 ```
 
-Beachte, dass der Computer beim Aufruf von \`t.right\(360/6\) zuerst den Winkel berechnet \(also 60°\) und dann den Befehl right \(\) mit dem berechneten Parameterwert ausführt. Wir hätten also auch direkt right \(60\) schreiben können. Durch das Ausschreiben der Rechnung geben wir einen Hinweis darauf, wie wir auf den Drehwinkel gekommen sind. Wir werden bald sehen, dass Berechnungen innerhalb von Programmen noch viel weitreichendere Vorteile bringen.
+Beachte, dass der Computer beim Aufruf von \`t.right\(360/6\) zuerst den Winkel berechnet \(also 60°\) und dann den Befehl right \(\) mit dem berechneten Parameterwert ausführt. Wir hätten also auch direkt right \(60\) schreiben können. Durch das Ausschreiben der Rechnung geben wir einen Hinweis darauf, wie wir auf den Drehwinkel gekommen sind. Wir werden bald sehen, dass Berechnungen innerhalb von Programmen noch viel weitreichendere Vorteile bringt.
+
+{% tabs %}
+{% tab title="Aufgabe 1.8" %}
+Schreib ein Programm, das die folgenden Vielecke zeichnet.
+
+a\) 11 Ecken, Seitenlänge 50  
+b\) 15 Ecken, Seitenlänge 30  
+c\) 7 Ecken, Seitenlänge 100
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
 
