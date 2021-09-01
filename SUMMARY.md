@@ -18,7 +18,3 @@
 
 * [Links](links/links-zu-unterrichtsmaterialien.md)
 
-## Programmierumgebung
-
-* [HS 2021/2022](programmierumgebung/programmierumgebungen.md)
-
