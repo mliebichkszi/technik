@@ -14,7 +14,7 @@
   * [01\_Erste Programme und Schleifen](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/erste-programme-und-schleifen/README.md)
     * [Eine Blume mit der Turtle zeichnen](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/erste-programme-und-schleifen/eine-blume-mit-der-turtle-zeichnen.md)
 
-## Links \(Vorbereitung Fach Technik\) <a id="links"></a>
+## Links
 
 * [Links](links/links-zu-unterrichtsmaterialien.md)
 
