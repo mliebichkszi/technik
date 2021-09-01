@@ -16,7 +16,7 @@
 
 ## Links \(Vorbereitung Fach Technik\) <a id="links"></a>
 
-* [Links zu Unterrichtsmaterialien](links/links-zu-unterrichtsmaterialien.md)
+* [Links](links/links-zu-unterrichtsmaterialien.md)
 
 ## Programmierumgebung
 
