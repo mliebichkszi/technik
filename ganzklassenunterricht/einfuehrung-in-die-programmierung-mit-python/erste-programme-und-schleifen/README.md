@@ -94,7 +94,7 @@ Schreib ein Programm, das einen Blitz wie in der Skizze zeichnet. Wähle selbst 
 {% endtab %}
 
 {% tab title="Lösung" %}
-
+Individuell; deine Lösung!
 {% endtab %}
 {% endtabs %}
 
