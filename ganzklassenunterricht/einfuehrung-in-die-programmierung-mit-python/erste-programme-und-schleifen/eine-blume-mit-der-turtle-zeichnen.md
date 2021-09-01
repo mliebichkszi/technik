@@ -4,7 +4,7 @@
 
 Das folgende Programm zeichnet ein Blütenblatt.Das Blatt besteht aus zwei Drittelkreisen. Die Drehung in Zeile 7 richtet die Turtle so aus, dass das Blatt vertikal gezeichnet werden kann.
 
-![](../../../.gitbook/assets/grafik%20%2825%29.png)
+![Ein Blatt](../../../.gitbook/assets/grafik%20%2825%29.png)
 
 ```python
 import turtle
@@ -30,7 +30,7 @@ t.right(60)
 
 Das folgende Programm zeichnet mehrere Blätter:
 
-![](../../../.gitbook/assets/grafik%20%2824%29.png)
+![Eine Bl&#xFC;te](../../../.gitbook/assets/grafik%20%2824%29.png)
 
 {% hint style="info" %}
 Im untenstehenden Programm werden mehrere Wiederholungen \(Schleifen\) innerhalb der Schleife `for i in range(4):`durchlaufen.  
@@ -64,7 +64,7 @@ t.right(30)
 Schreibe in [https://repl.it](https://repl.it) ein Python-Skript, das die folgende Blüte mit der Turtle zeichnet.
 {% endhint %}
 
-![](../../../.gitbook/assets/grafik%20%2826%29.png)
+![Eine sch&#xF6;ne Bl&#xFC;te!](../../../.gitbook/assets/grafik%20%2826%29.png)
 
 ## 💐 🌹 🌸 🌷 
 
