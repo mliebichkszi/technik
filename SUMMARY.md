@@ -11,7 +11,8 @@
 ## Ganzklassenunterricht
 
 * [Einführung in die Programmierung mit Python](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/README.md)
-  * [01\_Erste Programme und Schleifen](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/erste-programme-und-schleifen.md)
+  * [01\_Erste Programme und Schleifen](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/erste-programme-und-schleifen/README.md)
+    * [Eine Blume mit der Turtle zeichnen](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/erste-programme-und-schleifen/eine-blume-mit-der-turtle-zeichnen.md)
 
 ## Links \(Vorbereitung Fach Technik\) <a id="links"></a>
 
@@ -20,8 +21,4 @@
 ## Programmierumgebung
 
 * [HS 2021/2022](programmierumgebung/programmierumgebungen.md)
-
----
-
-* [Eine Blume mit der Turtle zeichnen](eine-blume-mit-der-turtle-zeichnen.md)
 

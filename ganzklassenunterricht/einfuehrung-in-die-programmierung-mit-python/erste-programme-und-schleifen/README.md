@@ -4,7 +4,7 @@
 
 Das Ziel des Programmierens ist es, eine Tätigkeit zu automatisieren. Das bedeutet, dass wir die Ausübung einer Tätigkeit komplett dem Computer überlassen. Computer sind aber im Unterschied zu Menschen nicht fähig zu improvisieren. Deswegen muss die Beschreibung der Tätigkeit in Form von Programmen eine eindeutige Interpretation besitzen. Das setzt auch voraus, dass wir die gewünschte Tätigkeit vollständig verstehen. In diesem Modul lernst du die ersten Programme zu schreiben. Ausserdem lernst du das Konstrukt der **Schleifen** kennen, welches dir ermöglicht, den Computer gewisse Tätig­keiten mehrfach wiederholen zu lassen.
 
-![Du schreibst ein Programm, das dann ausgef&#xFC;hrt werden kann.](../../.gitbook/assets/grafik%20%2814%29.png)
+![Du schreibst ein Programm, das dann ausgef&#xFC;hrt werden kann.](../../../.gitbook/assets/grafik%20%2814%29.png)
 
 Die Programmiersprache Python besitzt viele Befehle. Zu Beginn lernst du einige Befehle kennen, mit denen du den Computer beauftragen kannst, bestimmte Bilder zu zeichnen. Der Vorteil des Zeichnens für die Einführung ins Programmieren ist, dass sofort sichtbar wird, wenn der Computer etwas macht, was sich von der erwarteten Funktionalität unterscheidet. Dadurch kannst du die Programme effizient korrigieren. Schreibe das folgende Beispiel in [replit](https://replit.com/) ab. Melde dich bei replit an und erstelle ein neues Turtle-repl:
 
@@ -78,7 +78,7 @@ Schreib ein Programm, das ein Rechteck der Grösse 200 x 100 zeichnet.
 {% tab title="Aufgabe 1.3" %}
 Schreib  ein Programm, das einen Rhombus gemäss der folgenden Abbildung zeichnet.
 
-![](../../.gitbook/assets/grafik%20%2810%29.png)
+![](../../../.gitbook/assets/grafik%20%2810%29.png)
 {% endtab %}
 
 {% tab title="Lösung" %}
@@ -90,7 +90,7 @@ Schreib  ein Programm, das einen Rhombus gemäss der folgenden Abbildung zeichne
 {% tab title="Aufgabe 1.4" %}
 Schreib ein Programm, das einen Blitz wie in der Skizze zeichnet. Wähle selbst die Länge der Linien und die Grösse der Winkel.
 
-![](../../.gitbook/assets/grafik%20%286%29.png)
+![](../../../.gitbook/assets/grafik%20%286%29.png)
 {% endtab %}
 
 {% tab title="Lösung" %}
@@ -161,7 +161,7 @@ t.back(100)
 Zeichne ein Haus wie in der folgenden Abbildung. Die ausgefüllte Türe kannst du mithilfe von `width()` erzeugen.  
 
 
-![](../../.gitbook/assets/grafik%20%2818%29.png)
+![](../../../.gitbook/assets/grafik%20%2818%29.png)
 {% endtab %}
 
 {% tab title="Lösung" %}
@@ -204,7 +204,7 @@ for i in range(3):
 t.back(100) 
 ```
 
-![Figur, die vom Programm gezeichnet wird](../../.gitbook/assets/grafik%20%2819%29.png)
+![Figur, die vom Programm gezeichnet wird](../../../.gitbook/assets/grafik%20%2819%29.png)
 
 {% hint style="info" %}
 **Neue Konzepte und Begriffe**
@@ -215,9 +215,9 @@ t.back(100)
 
 Wir wollen ein regelmässiges Vieleck wie das Sechseck in Abbildung A zeichnen lassen. Zunächst überlegen wir uns, um wie viel Grad sich die Turtle nach dem Zeichnen jeder Seite drehen muss \(siehe Abbildung B\). Damit ein regelmässiges Sechseck entsteht, müssen alle Winkel gleich gross sein. Am einfachsten gehen wir folgender­massen vor: Wir sehen, dass sich die Turtle genau k-mal um den gleichen Winkel drehen muss, wenn sie ein k-Eck zeichnet. Weil die Turtle wieder in der Start­position endet und somit beim Zeichnen einen Rundweg absolviert, hat sie am Schluss eine vollständige Drehung um 360° gemacht. Deswegen dreht sie sich jeweils um  $$360°/k$$ .
 
-![](../../.gitbook/assets/grafik%20%2821%29.png)
+![](../../../.gitbook/assets/grafik%20%2821%29.png)
 
-![](../../.gitbook/assets/grafik%20%2820%29.png)
+![](../../../.gitbook/assets/grafik%20%2820%29.png)
 
 ```python
 import turtle
