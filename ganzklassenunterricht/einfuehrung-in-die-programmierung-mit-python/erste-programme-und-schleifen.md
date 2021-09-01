@@ -243,7 +243,7 @@ b\) 15 Ecken, Seitenlänge 30
 c\) 7 Ecken, Seitenlänge 100
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Lösung" %}
 
 {% endtab %}
 {% endtabs %}
