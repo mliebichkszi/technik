@@ -36,11 +36,25 @@ print("Ich programmiere" * 2)
 Mit `*` kannst du also vervielfältigen, mit `+` Text zusammenhängen \(konkatenieren\).
 
 {% tabs %}
-{% tab title="Aufgabe 1" %}
+{% tab title="Aufgabe 2.1" %}
+Entwickle ein Programm, das den folgenden Baum mit dem Buchstaben X zeichnet:  
 
+
+![Ein Baum](../../.gitbook/assets/grafik%20%2829%29.png)
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Lösung" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Aufgabe 2.2" %}
+Schreib ein Programm, das dreimal "Ich programmiere \n" ausgibt. Verwende dafür die for-Schleife:  
+`for i in range(3)`
+{% endtab %}
+
+{% tab title="Lösung" %}
 
 {% endtab %}
 {% endtabs %}
