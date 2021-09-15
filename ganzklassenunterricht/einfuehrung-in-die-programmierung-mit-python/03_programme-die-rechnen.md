@@ -40,6 +40,7 @@ Berechnet die ganzzahlige Division von Zahl1 durch Zahl2.
 Berechnet den Rest der ganzzahligen Division von Zahl1 durch Zahl2.  
 **Zahl\* n**  
 Berechnet die n-te Potenz von Zahl.  
-sqrt \(Zahl\) Berechnet die Quadratwurzel von Zahl.
+**sqrt \(Zahl\)**  
+Berechnet die Quadratwurzel von Zahl.
 {% endhint %}
 
