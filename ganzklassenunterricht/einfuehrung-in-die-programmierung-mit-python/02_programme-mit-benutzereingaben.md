@@ -9,3 +9,18 @@ Dieser Datentyp beinhaltet ganze Zahlen und Kommazahlen. Für die ganzen Zahlen 
 Texte stehen immer in Anführungszeichen. Dadurch sieht der Computer sofort, dass es sich um einen Text handelt. Wir nennen diesen Datentyp String. In Python werden Strings mit `str` bezeichnet.
 {% endhint %}
 
+### Beispiel
+
+Schreib das folgende Programm ab und führ es aus. Was steht im Ausgabefenster? Was bewirkt `\n` ?
+
+```python
+print("Was machst du?\nich programmiere.")
+```
+
+{% hint style="info" %}
+`print(Text)`  
+Der Befehl print \( "Hallo163"\) bewirkt, dass der Computer im Ausgabefenster den Text «Hallo163» ausgibt und dann im Ausgabefenster in die nächste Zeile springt. Der Text, der ausgegeben werden soll, muss zwischen geraden Anführungszeichen \(" " oder ' '\) stehen.  
+`\n`  
+Innerhalb von Texten \(und nur dort\) bewirkt die Zeichenfolge  n einen Zeilenumbruch im Ausgabefenster.
+{% endhint %}
+
