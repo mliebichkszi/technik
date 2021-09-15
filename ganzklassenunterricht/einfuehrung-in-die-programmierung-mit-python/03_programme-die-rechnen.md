@@ -44,3 +44,40 @@ Berechnet die n-te Potenz von Zahl.
 Berechnet die Quadratwurzel von Zahl.
 {% endhint %}
 
+{% tabs %}
+{% tab title="Aufgabe 3.1" %}
+Der arithmetische Ausdruck 4 · 4 · 4 · 4 + 1 ergibt eine Primzahl. Lass die Zahl von Python berechnen und gib sie auf dem Bildschirm aus.
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Aufgabe 3.2" %}
+Berechnen Sie den Goldenen Schnitt $$\phi = (1+\sqrt(5) )/ 2$$ 
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Aufgabe 3.3" %}
+Schreib ein Programm, das ein Rechteck zeichnet. Das Rechteck hat einen Flächeninhalt von 720. Die erste Seite ist 48 Pixel lang. Berechne innerhalb des Programms, wie lang die zweite Seite ist. Wir möchten ein rechtwinkliges gleichschenkliges Dreieck wie in der Abbildung zeichnen. Das Dreieck hat einen 90°-Winkel und zwei 45°-Winkel. Die kürzeren Seiten \(Katheten\) haben eine beliebige Länge x. Die Länge der längeren Seite \(Hypotenuse\) kann mit der Formel $$x\cdot\sqrt2$$ berechnet werden. Statt dass wir die konkrete Länge der Hypotenuse selbst mühsam ausrechnen, lassen wir dies den Computer tun.  
+
+
+![Gleichschenkliges Dreieck](../../.gitbook/assets/grafik%20%2830%29.png)
+{% endtab %}
+
+{% tab title="Lösung" %}
+```python
+import turtle
+
+t = turtle.Turtle()
+t.right(45)
+t.forward(60)
+t.right(90)
+t.forward(60)
+t.right(135)
+t.forward(60 * sqrt(2))
+```
+{% endtab %}
+{% endtabs %}
+
+
+
