@@ -92,3 +92,27 @@ Schreib ein Programm, das mit der Turtle ein Haus wie in der Abbildung zeichnet.
 {% endtab %}
 {% endtabs %}
 
+{% tabs %}
+{% tab title="Aufgabe 3.5" %}
+Schreib ein Programm, das mit der Turtle zunächst ein gleichseitiges Dreieck mit der Seitenlänge 144 Pixel zeichnet. Danach zeichnest du mit der Turtle die Höhe in roter Farbe ein. Das Programm soll die Höhe selbst berechnen.
+{% endtab %}
+
+{% tab title="Lösung" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Aufgabe 3.6" %}
+Erweitern Sie das Programm aus Aufgabe 1.26 so, dass es zusätzlich mit roter Farbe die Höhe des Hauses vom Boden bis zur Dachspitze zeichnet.
+{% endtab %}
+
+{% tab title="Lösung" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% hint style="success" %}
+Anstelle von Zahlenwerten können Sie in Python auch ganze Rechnungen in Form von arithmetischen Ausdrücken einsetzen. Python wertet alle diese arithmetischen Ausdrücke zuerst aus und arbeitet dann mit den Ergebnissen weiter. Ein Ausdruck in Anführungszeichen ist für Python einfach ein Text, der mit dem Befehl print \(\) Zeichen für Zeichen ausgegeben wird.
+{% endhint %}
+
