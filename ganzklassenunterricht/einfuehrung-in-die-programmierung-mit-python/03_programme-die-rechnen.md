@@ -79,5 +79,16 @@ t.forward(60 * sqrt(2))
 {% endtab %}
 {% endtabs %}
 
+{% tabs %}
+{% tab title="Aufgabe 3.4" %}
+Schreib ein Programm, das mit der Turtle ein Haus wie in der Abbildung zeichnet. Das Haus besteht aus vielen rechtwinkligen gleichschenkligen Drei­ecken wie im vorherigen Beispiel. Damit kannst du dir auch überlegen, wie viel länger oder kürzer die einzelnen Strecken sind. Das Grundquadrat hat hier eine Seiten­länge von 185 Pixeln.  
 
+
+![](../../.gitbook/assets/grafik%20%2831%29.png)
+{% endtab %}
+
+{% tab title="Lösung" %}
+
+{% endtab %}
+{% endtabs %}
 
