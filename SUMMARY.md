@@ -14,6 +14,7 @@
   * [01\_Erste Programme und Schleifen](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/erste-programme-und-schleifen/README.md)
     * [Eine Blume mit der Turtle zeichnen](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/erste-programme-und-schleifen/eine-blume-mit-der-turtle-zeichnen.md)
   * [02\_Programme mit Benutzereingaben](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/02_programme-mit-benutzereingaben.md)
+  * [03\_Programme, die rechnen](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/03_programme-die-rechnen.md)
 
 ## Links
 
