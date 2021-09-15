@@ -26,10 +26,22 @@ Innerhalb von Texten \(und nur dort\) bewirkt die Zeichenfolge  n einen Zeilenum
 
 ### Text wiederholen
 
-Wir könnten den Text wiederholen, indem wir ihn einfach auf einer neuen Zeile nochmals ausgeben lassen:
+Wir könnten den Text wiederholen, indem wir ihn einfach zweimal hintereinander notieren oder ihn multiplizieren.
 
 ```python
 print("Ich programmiere! Ich programmiere!") 
-print("""'"===========--=-------------------") 
+print("Ich programmiere" * 2)
 ```
+
+Mit `*` kannst du also vervielfältigen, mit `+` Text zusammenhängen \(konkatenieren\).
+
+{% tabs %}
+{% tab title="Aufgabe 1" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
 
