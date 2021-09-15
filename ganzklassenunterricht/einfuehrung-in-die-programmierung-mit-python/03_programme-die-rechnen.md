@@ -113,6 +113,6 @@ Erweitern Sie das Programm aus Aufgabe 1.26 so, dass es zusätzlich mit roter Fa
 {% endtabs %}
 
 {% hint style="success" %}
-Anstelle von Zahlenwerten können Sie in Python auch ganze Rechnungen in Form von arithmetischen Ausdrücken einsetzen. Python wertet alle diese arithmetischen Ausdrücke zuerst aus und arbeitet dann mit den Ergebnissen weiter. Ein Ausdruck in Anführungszeichen ist für Python einfach ein Text, der mit dem Befehl print \(\) Zeichen für Zeichen ausgegeben wird.
+Anstelle von Zahlenwerten kannst du in Python auch ganze Rechnungen in Form von arithmetischen Ausdrücken einsetzen. Python wertet alle diese arithmetischen Ausdrücke zuerst aus und arbeitet dann mit den Ergebnissen weiter. Ein Ausdruck in Anführungszeichen ist für Python einfach ein Text, der mit dem Befehl print \(\) Zeichen für Zeichen ausgegeben wird.
 {% endhint %}
 
