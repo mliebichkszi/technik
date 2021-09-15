@@ -18,6 +18,28 @@ print (7%4)
 Wir möchten eine ganze Rechnung ausgeben und danach das Resultat.
 
 ```python
-print ('Das Quadrat von 15 ist: ", 15**2)
+print ('Das Quadrat von 15 ist:', 15**2)
 ```
+
+{% hint style="info" %}
+Unter einem Ausdruck verstehen wir einen arithmetischen Ausdruck oder einen Text. Für arithmetische Ausdrücke gilt:
+
+print \(Ausdruck1,Ausdruck2,Ausdruck3, ... \)  
+Der Computer wertet zuerst jeden Ausdruck aus und gibt die Resultate anschliessend in einer Zeile im Ausgabefenster aus.  
+Zahl1 + Zahl2  
+Berechnet die Summe von Zahl1 und Zahl2.  
+Zahl1 - Zahl2  
+Berechnet die Differenz von Zahl1 und Zahl2.  
+Zahl1\*_Zahl2  
+Berechnet die Multiplikation von Zahl1 und Zahl2.  
+Zahl1 / Zahl2   
+Berechnet die Division von Zahl1 durch Zahl2.  
+Zahl1 / / Zahl2  
+Berechnet die ganzzahlige Division von Zahl1 durch Zahl2.  
+Zahl1 % Zahl2  
+Berechnet den Rest der ganzzahligen Division von Zahl1 durch Zahl2.  
+Zahl\*_ n  
+Berechnet die n-te Potenz von Zahl.  
+sqrt \(Zahl\) Berechnet die Quadratwurzel von Zahl.
+{% endhint %}
 
