@@ -24,3 +24,12 @@ Der Befehl print \( "Hallo163"\) bewirkt, dass der Computer im Ausgabefenster de
 Innerhalb von Texten \(und nur dort\) bewirkt die Zeichenfolge  n einen Zeilenumbruch im Ausgabefenster.
 {% endhint %}
 
+### Text wiederholen
+
+Wir könnten den Text wiederholen, indem wir ihn einfach auf einer neuen Zeile nochmals ausgeben lassen:
+
+```python
+print("Ich programmiere! Ich programmiere!") 
+print("""'"===========--=-------------------") 
+```
+
