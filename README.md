@@ -1,5 +1,5 @@
 ---
-description: 'HS 2021, KZI'
+description: 'HS 2021, KZI, 2. Klassen'
 ---
 
 # Robotik mit EV3
