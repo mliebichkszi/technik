@@ -8,5 +8,16 @@ print((163 * 3) - (77 * 4))
 
 Welche Unterschiede beobachtest du bei der Ausgabe der folgenden vier Zeilen? Inwiefern unterscheiden sich die beiden Operatoren / und / / für die Division? Was macht der %-Operator?
 
+```python
+print (7/4)
+print (7//4)
+print ("7/4")
+print (7%4)
+```
 
+Wir möchten eine ganze Rechnung ausgeben und danach das Resultat.
+
+```python
+print ('Das Quadrat von 15 ist: ", 15**2)
+```
 
