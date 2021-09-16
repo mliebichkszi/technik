@@ -7,6 +7,8 @@
 * [Einführung](halbklassenunterricht/einfuehrung.md)
 * [01\_Bewegungen & Drehungen](halbklassenunterricht/bewegen-und-drehen.md)
 * [02\_Ultraschall-Sensor](halbklassenunterricht/ultraschall-sensor.md)
+* [03\_Greifen und Loslassen](halbklassenunterricht/03_greifen-und-loslassen.md)
+* [04\_Farben und Linien](halbklassenunterricht/04_farben-und-linien.md)
 
 ## Ganzklassenunterricht
 
