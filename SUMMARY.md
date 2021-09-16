@@ -10,6 +10,7 @@
 * [03\_Greifen und Loslassen](halbklassenunterricht/03_greifen-und-loslassen.md)
 * [04\_Farben und Linien](halbklassenunterricht/04_farben-und-linien.md)
 * [05\_Winkel und Muster](halbklassenunterricht/05_winkel-und-muster.md)
+* [06\_ Der Fabrikroboter](halbklassenunterricht/06_-der-fabrikroboter.md)
 
 ## Ganzklassenunterricht
 
