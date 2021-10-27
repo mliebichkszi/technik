@@ -4,7 +4,7 @@
 
 Das folgende Programm zeichnet ein Blütenblatt.Das Blatt besteht aus zwei Drittelkreisen. Die Drehung in Zeile 7 richtet die Turtle so aus, dass das Blatt vertikal gezeichnet werden kann.
 
-![Ein Blatt](../../../.gitbook/assets/grafik%20%2825%29.png)
+![Ein Blatt](<../../../.gitbook/assets/grafik (23).png>)
 
 ```python
 import turtle
@@ -30,10 +30,10 @@ t.right(60)
 
 Das folgende Programm zeichnet mehrere Blätter:
 
-![Eine Bl&#xFC;te](../../../.gitbook/assets/grafik%20%2824%29.png)
+![Eine Blüte](<../../../.gitbook/assets/grafik (25).png>)
 
 {% hint style="info" %}
-Im untenstehenden Programm werden mehrere Wiederholungen \(Schleifen\) innerhalb der Schleife `for i in range(4):`durchlaufen.  
+Im untenstehenden Programm werden mehrere Wiederholungen (Schleifen) innerhalb der Schleife `for i in range(4):`durchlaufen.\
 Man spricht von "inneren" und "äusseren" Schleifen.
 {% endhint %}
 
@@ -64,9 +64,9 @@ t.right(30)
 Schreibe in [https://repl.it](https://repl.it) ein Python-Skript, das die folgende Blüte mit der Turtle zeichnet.
 {% endhint %}
 
-![Eine sch&#xF6;ne Bl&#xFC;te!](../../../.gitbook/assets/grafik%20%2826%29.png)
+![Eine schöne Blüte!](<../../../.gitbook/assets/grafik (26).png>)
 
-## 💐 🌹 🌸 🌷 
+## :bouquet: :rose: :cherry\_blossom: :tulip:&#x20;
 
 {% hint style="success" %}
 Fülle die Blütenblätter mit unterschiedlichen Farben und lade die farbige Blüte in Teams hoch.
@@ -90,4 +90,3 @@ farbe = random.choice(farben)
 # Mit diesem Code bekommt deine Turtle eine zufällige Farbe
 fred.color(farbe)
 ```
-

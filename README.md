@@ -1,5 +1,5 @@
 ---
-description: 'HS 2021, KZI, 2. Klassen'
+description: HS 2021, KZI, 2. Klassen
 ---
 
 # Robotik mit EV3
@@ -8,23 +8,36 @@ description: 'HS 2021, KZI, 2. Klassen'
 
 ### Halbklassen-Unterricht
 
-{% page-ref page="halbklassenunterricht/bewegen-und-drehen.md" %}
+{% content-ref url="halbklassenunterricht/bewegen-und-drehen.md" %}
+[bewegen-und-drehen.md](halbklassenunterricht/bewegen-und-drehen.md)
+{% endcontent-ref %}
 
-{% page-ref page="halbklassenunterricht/ultraschall-sensor.md" %}
+{% content-ref url="halbklassenunterricht/ultraschall-sensor.md" %}
+[ultraschall-sensor.md](halbklassenunterricht/ultraschall-sensor.md)
+{% endcontent-ref %}
 
-{% page-ref page="halbklassenunterricht/03\_greifen-und-loslassen.md" %}
+{% content-ref url="halbklassenunterricht/03_greifen-und-loslassen.md" %}
+[03\_greifen-und-loslassen.md](halbklassenunterricht/03\_greifen-und-loslassen.md)
+{% endcontent-ref %}
 
-{% page-ref page="halbklassenunterricht/04\_farben-und-linien.md" %}
+{% content-ref url="halbklassenunterricht/04_farben-und-linien.md" %}
+[04\_farben-und-linien.md](halbklassenunterricht/04\_farben-und-linien.md)
+{% endcontent-ref %}
 
-{% page-ref page="halbklassenunterricht/05\_winkel-und-muster.md" %}
+{% content-ref url="halbklassenunterricht/05_winkel-und-muster.md" %}
+[05\_winkel-und-muster.md](halbklassenunterricht/05\_winkel-und-muster.md)
+{% endcontent-ref %}
 
-{% page-ref page="halbklassenunterricht/06\_-der-fabrikroboter.md" %}
+{% content-ref url="halbklassenunterricht/06_-der-fabrikroboter.md" %}
+[06\_-der-fabrikroboter.md](halbklassenunterricht/06\_-der-fabrikroboter.md)
+{% endcontent-ref %}
 
 ### Ganzklassen-Unterricht
 
-{% page-ref page="ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/erste-programme-und-schleifen/" %}
+{% content-ref url="ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/erste-programme-und-schleifen/" %}
+[erste-programme-und-schleifen](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/erste-programme-und-schleifen/)
+{% endcontent-ref %}
 
 
 
-## 
-
+##

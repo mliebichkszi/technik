@@ -1,4 +1,3 @@
 # 03\_Greifen und Loslassen
 
-![](../.gitbook/assets/grafik%20%2833%29.png)
-
+![](<../.gitbook/assets/grafik (32).png>)
