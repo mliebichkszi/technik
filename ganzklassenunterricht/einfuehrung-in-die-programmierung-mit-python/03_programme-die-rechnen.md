@@ -104,7 +104,7 @@ Schreib ein Programm, das mit der Turtle zunächst ein gleichseitiges Dreieck mi
 
 {% tabs %}
 {% tab title="Aufgabe 3.6" %}
-Erweitern Sie das Programm aus Aufgabe 1.26 so, dass es zusätzlich mit roter Farbe die Höhe des Hauses vom Boden bis zur Dachspitze zeichnet.
+Erweitere das Programm aus Aufgabe 3.5 so, dass es zusätzlich mit roter Farbe die Höhe des Hauses vom Boden bis zur Dachspitze zeichnet.
 {% endtab %}
 
 {% tab title="Lösung" %}
