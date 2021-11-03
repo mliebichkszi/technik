@@ -11,7 +11,7 @@ Bis jetzt bestand unsere Sprache nur aus elementaren Befehlen, wie zum Beispiel 
 ```python
 import turtle as t
 
-def quadrat 100():
+def quadrat100():
     for i in range(4):
         t.forward(100)
         t.right(90)
