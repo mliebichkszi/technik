@@ -42,7 +42,7 @@ Wenn Du einen Befehl mit def definierst, dann zeichnet die Turtle noch nichts. D
 
 Das Fenster in der Abbildung unten kann man ganz einfach zeichnen: drei waagrechte Linien mit Länge 200, drei senkrechte Linien mit Länge 200. Noch einfacher geht es aber mithilfe eines Bausteins: Wir setzen das Bild aus vier Quadraten zusammen. Dazu definieren und verwenden wir wieder den Befehl quadratl00 (). Die Turtle steht zu Beginn in der Mitte des Fensters und zeichnet zuerst das Quadrat rechts oben. Danach dreht sie sich um 90° nach rechts und zeichnet das Quadrat rechts unten usw.
 
-![](<../../.gitbook/assets/grafik (39).png>)
+![](<../../.gitbook/assets/grafik (39) (1).png>)
 
 ```python
 import turtle as t
@@ -67,7 +67,7 @@ Definiere einen Befehl `blatt()`, der ein Blatt wie in der Abbildung unten aus z
 
 ...vier Blätter nacheinander wie im folgenden Bild zu zeichnen.
 
-![](<../../.gitbook/assets/grafik (38).png>)![](<../../.gitbook/assets/grafik (37).png>)
+![](<../../.gitbook/assets/grafik (38) (1).png>)![](<../../.gitbook/assets/grafik (37) (1).png>)
 {% endtab %}
 
 {% tab title="Lösung" %}
@@ -75,3 +75,69 @@ Definiere einen Befehl `blatt()`, der ein Blatt wie in der Abbildung unten aus z
 {% endtab %}
 {% endtabs %}
 
+Wir haben den Befehl `quadrat100()` erstellt. Um häufig verwendete Befehle nicht in jedem Programm neu definieren zu müssen, ist es möglich, sie ein für alle Mal in einem Modul zu definieren und somit in einer separaten Python-Datei zu speichern (z.B. mit dem Namen «meine\_befehle.py»). Die in diesem Modul definierten Befehle können dann über eine import-Anweisung geladen werden. Der Dateiname muss mit dem Namen des Moduls überein­stimmen, dem die Erweiterung «.py» hinzugefügt wird, und das Modul muss sich im gleichen Ordner wie die Programmdatei befinden.
+
+Du kannst dann in einem anderen Programm beliebig viele von den im Modul definierten Befehlen verwenden. Dazu musst du diese Befehle mithilfe der Anweisung `from meine_befehle import *` in das aktuelle Programm in die 1. Zeile einfügen.
+
+{% tabs %}
+{% tab title="Aufgabe 4.3" %}
+Schau dir das folgende Programm an und überlege dir, was es zeichnet. Skizziere das Bild zunächst auf einem Blatt, indem du den Programmanweisungen folgst. Überprüfe dann deine Lösung, indem du den Computer das Programm ausführen lässt. Beachte, dass der Computer den Befehl `quadrat100`bereits kennt, weil du ihn abgespeicherst hast.
+
+```python
+import turtle as t
+from meine_befehle import *
+
+for i in range 8:
+    quadrat100()
+    right(45)
+```
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Aufgabe 4.4" %}
+Definiere einen Befehl `dreieck100()`zum Zeichnen eines gleichseitigen Dreiecks mit Seitenlänge 100 wie in Abbildung A. Nutze `dreieck100()` um eine Form wie in Abbildung B zu zeichnen.
+
+![](<../../.gitbook/assets/grafik (41).png>)![](<../../.gitbook/assets/grafik (45).png>)
+{% endtab %}
+
+{% tab title="Lösung" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Aufgabe 4.5" %}
+Verwende den Befehl `quadrat100()`um folgende Bilder zu zeichnen.
+
+![](<../../.gitbook/assets/grafik (37).png>)![](<../../.gitbook/assets/grafik (42).png>)![](<../../.gitbook/assets/grafik (40).png>)
+{% endtab %}
+
+{% tab title="Lösung" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Aufgabe 4.6" %}
+Verwende die Befehle `quadrate100()`und `dreieck100()`, um eine Form wie in der folgenden Abbildung zu zeichnen.
+
+![](<../../.gitbook/assets/grafik (43).png>)
+{% endtab %}
+
+{% tab title="Lösung" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Aufgabe 4.7" %}
+Definiere einen Befehl `offenes_quadrat()`, der ein offenes Quadrat wie in Abbildung A zeichnet. Schreibe dann ein Programm, das den neuen Befehl `offenes_quadrat`verwendet, um das Kreuz in Abbildung B zu zeichnen.
+
+![](<../../.gitbook/assets/grafik (38).png>)![](<../../.gitbook/assets/grafik (39).png>)
+{% endtab %}
+
+{% tab title="Lösung" %}
+
+{% endtab %}
+{% endtabs %}
