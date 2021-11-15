@@ -6,10 +6,6 @@ Jetzt ist es Zeit, ein eigenes Projekt anzugehen! Ihr habt **zu zweit bis am 19.
 
 ## Vorgehen
 
-### Ziel setzen
-
-### Projekt-Ziel der Lehrperson vorschlagen
-
 ### Projekt planen
 
 * Eigene **Fragestellung** finden
