@@ -11,6 +11,8 @@
 * [04\_Farben und Linien](halbklassenunterricht/04\_farben-und-linien.md)
 * [05\_Winkel und Muster](halbklassenunterricht/05\_winkel-und-muster.md)
 * [06\_ Der Fabrikroboter](halbklassenunterricht/06\_-der-fabrikroboter.md)
+* [07\_Eigenes Projekt](halbklassenunterricht/07\_eigenes-projekt/README.md)
+  * [Kriterien für das Projekt](halbklassenunterricht/07\_eigenes-projekt/kriterien-fuer-das-projekt.md)
 
 ## Ganzklassenunterricht
 
