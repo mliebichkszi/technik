@@ -84,7 +84,7 @@ Schreib in [https://repl.it](https://repl.it) ein Einkaufslisten-Programm. Das P
 {% tab title="Aufgabe 2" %}
 Du kennst sicher das Spiel "Schiffe versenken". Bei diesem Spiel muss ein Spieler erraten, wo das gegnerische Schiff auf dem Spielfeld liegt.
 
-![](<../../.gitbook/assets/grafik (45).png>)
+![](<../../.gitbook/assets/grafik (49).png>)
 
 Im Unterricht werden wir den Anfang des Spiels programmieren. Versuche, das Spiel weiterzuentwickeln, sodass auf einem grösseren Spielfeld gespielt werden kann.
 {% endtab %}

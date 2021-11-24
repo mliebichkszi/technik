@@ -42,7 +42,7 @@ Wenn Du einen Befehl mit def definierst, dann zeichnet die Turtle noch nichts. D
 
 Das Fenster in der Abbildung unten kann man ganz einfach zeichnen: drei waagrechte Linien mit Länge 200, drei senkrechte Linien mit Länge 200. Noch einfacher geht es aber mithilfe eines Bausteins: Wir setzen das Bild aus vier Quadraten zusammen. Dazu definieren und verwenden wir wieder den Befehl quadratl00 (). Die Turtle steht zu Beginn in der Mitte des Fensters und zeichnet zuerst das Quadrat rechts oben. Danach dreht sie sich um 90° nach rechts und zeichnet das Quadrat rechts unten usw.
 
-![](<../../.gitbook/assets/grafik (39) (1).png>)
+![](<../../.gitbook/assets/grafik (53).png>)
 
 ```python
 import turtle as t
@@ -67,7 +67,7 @@ Definiere einen Befehl `blatt()`, der ein Blatt wie in der Abbildung unten aus z
 
 ...vier Blätter nacheinander wie im folgenden Bild zu zeichnen.
 
-![](<../../.gitbook/assets/grafik (38) (1).png>)![](<../../.gitbook/assets/grafik (37) (1) (1).png>)
+![](<../../.gitbook/assets/grafik (43).png>)![](<../../.gitbook/assets/grafik (39).png>)
 {% endtab %}
 
 {% tab title="Lösung" %}
@@ -98,7 +98,7 @@ for i in range 8:
 {% tab title="Aufgabe 4.4" %}
 Definiere einen Befehl `dreieck100()`zum Zeichnen eines gleichseitigen Dreiecks mit Seitenlänge 100 wie in Abbildung A. Nutze `dreieck100()` um eine Form wie in Abbildung B zu zeichnen.
 
-![](<../../.gitbook/assets/grafik (41).png>)![](<../../.gitbook/assets/grafik (45) (1) (1).png>)
+![](<../../.gitbook/assets/grafik (44).png>)![](<../../.gitbook/assets/grafik (52).png>)
 {% endtab %}
 
 {% tab title="Lösung" %}
@@ -110,7 +110,7 @@ Definiere einen Befehl `dreieck100()`zum Zeichnen eines gleichseitigen Dreiecks 
 {% tab title="Aufgabe 4.5" %}
 Verwende den Befehl `quadrat100()`um folgende Bilder zu zeichnen.
 
-![](<../../.gitbook/assets/grafik (37) (1).png>)![](<../../.gitbook/assets/grafik (42).png>)![](<../../.gitbook/assets/grafik (40).png>)
+![](<../../.gitbook/assets/grafik (38).png>)![](<../../.gitbook/assets/grafik (45).png>)![](<../../.gitbook/assets/grafik (42).png>)
 {% endtab %}
 
 {% tab title="Lösung" %}
@@ -122,7 +122,7 @@ Verwende den Befehl `quadrat100()`um folgende Bilder zu zeichnen.
 {% tab title="Aufgabe 4.6" %}
 Verwende die Befehle `quadrate100()`und `dreieck100()`, um eine Form wie in der folgenden Abbildung zu zeichnen.
 
-![](<../../.gitbook/assets/grafik (43).png>)
+![](<../../.gitbook/assets/grafik (46).png>)
 {% endtab %}
 
 {% tab title="Lösung" %}
@@ -134,7 +134,7 @@ Verwende die Befehle `quadrate100()`und `dreieck100()`, um eine Form wie in der 
 {% tab title="Aufgabe 4.7" %}
 Definiere einen Befehl `offenes_quadrat()`, der ein offenes Quadrat wie in Abbildung A zeichnet. Schreibe dann ein Programm, das den neuen Befehl `offenes_quadrat`verwendet, um das Kreuz in Abbildung B zu zeichnen.
 
-![](<../../.gitbook/assets/grafik (38).png>)![](<../../.gitbook/assets/grafik (39).png>)
+![](<../../.gitbook/assets/grafik (40).png>)![](<../../.gitbook/assets/grafik (41).png>)
 {% endtab %}
 
 {% tab title="Lösung" %}

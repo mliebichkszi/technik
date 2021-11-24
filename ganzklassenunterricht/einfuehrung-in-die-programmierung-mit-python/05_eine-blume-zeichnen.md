@@ -25,7 +25,7 @@ for i in range(120):
 
 Das folgende Programm zeichnet mehrere Blätter:
 
-![Eine vierblättrige Blüte](<../../.gitbook/assets/grafik (44).png>)
+![Eine vierblättrige Blüte](<../../.gitbook/assets/grafik (47).png>)
 
 {% hint style="info" %}
 Im untenstehenden Programm werden mehrere Wiederholungen (Schleifen) innerhalb der Schleife `for i in range(4):`durchlaufen.\
@@ -51,7 +51,7 @@ for i in range(4):
 Schreibe in [https://repl.it](https://repl.it) ein Python-Skript, das die folgende Blüte mit der Turtle zeichnet.
 {% endhint %}
 
-![Eine schöne Blüte!](<../../.gitbook/assets/grafik (45) (1).png>)
+![Eine schöne Blüte!](<../../.gitbook/assets/grafik (50).png>)
 
 ## :bouquet: :rose: :cherry\_blossom: :tulip:&#x20;
 
