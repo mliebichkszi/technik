@@ -67,7 +67,7 @@ Definiere einen Befehl `blatt()`, der ein Blatt wie in der Abbildung unten aus z
 
 ...vier Blätter nacheinander wie im folgenden Bild zu zeichnen.
 
-![](<../../.gitbook/assets/grafik (38) (1).png>)![](<../../.gitbook/assets/grafik (37) (1).png>)
+![](<../../.gitbook/assets/grafik (38) (1).png>)![](<../../.gitbook/assets/grafik (37) (1) (1).png>)
 {% endtab %}
 
 {% tab title="Lösung" %}
@@ -98,7 +98,7 @@ for i in range 8:
 {% tab title="Aufgabe 4.4" %}
 Definiere einen Befehl `dreieck100()`zum Zeichnen eines gleichseitigen Dreiecks mit Seitenlänge 100 wie in Abbildung A. Nutze `dreieck100()` um eine Form wie in Abbildung B zu zeichnen.
 
-![](<../../.gitbook/assets/grafik (41).png>)![](<../../.gitbook/assets/grafik (45).png>)
+![](<../../.gitbook/assets/grafik (41).png>)![](<../../.gitbook/assets/grafik (45) (1).png>)
 {% endtab %}
 
 {% tab title="Lösung" %}
@@ -110,7 +110,7 @@ Definiere einen Befehl `dreieck100()`zum Zeichnen eines gleichseitigen Dreiecks 
 {% tab title="Aufgabe 4.5" %}
 Verwende den Befehl `quadrat100()`um folgende Bilder zu zeichnen.
 
-![](<../../.gitbook/assets/grafik (37).png>)![](<../../.gitbook/assets/grafik (42).png>)![](<../../.gitbook/assets/grafik (40).png>)
+![](<../../.gitbook/assets/grafik (37) (1).png>)![](<../../.gitbook/assets/grafik (42).png>)![](<../../.gitbook/assets/grafik (40).png>)
 {% endtab %}
 
 {% tab title="Lösung" %}

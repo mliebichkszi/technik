@@ -6,7 +6,7 @@ Jetzt ist es Zeit, ein eigenes Projekt anzugehen! Ihr habt **zu zweit bis am 19.
 
 ## Vorgehen
 
-### Projekt planen
+### 01\_Projekt planen
 
 * Eigene **Fragestellung** finden
   * z.B. Gabelstapler, der Blöcke sortiert, aufeinanderbeigt
@@ -19,7 +19,11 @@ Jetzt ist es Zeit, ein eigenes Projekt anzugehen! Ihr habt **zu zweit bis am 19.
 * Was für **Material** (braucht es einen zusätzlichen Sensor? Lego-Teile reichen vom Erweiterungsset?)
 * Projektplanung als einseitiges Word-Dokument
 
-###
+### 02\_Projekt der Lehrperson vorstellen
+
+* Planungsdokument (einseitiges Word-Dokument) dabei
+* Allfällige Änderungen vornehmen
+* Nach ok der Lehrperson mit Projekt starten
 
 
 

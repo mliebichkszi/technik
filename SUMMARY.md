@@ -22,6 +22,7 @@
   * [02\_Programme mit Benutzereingaben](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/02\_programme-mit-benutzereingaben.md)
   * [03\_Programme, die rechnen](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/03\_programme-die-rechnen.md)
   * [04 Funktionen](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/04-funktionen.md)
+  * [05\_Eine Blume zeichnen](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/05\_eine-blume-zeichnen.md)
 
 ## Links
 
