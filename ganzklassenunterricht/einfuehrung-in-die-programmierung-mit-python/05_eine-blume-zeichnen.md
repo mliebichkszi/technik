@@ -64,7 +64,7 @@ t.right(30)
 Schreibe in [https://repl.it](https://repl.it) ein Python-Skript, das die folgende Blüte mit der Turtle zeichnet.
 {% endhint %}
 
-![Eine schöne Blüte!](<../../.gitbook/assets/grafik (45).png>)
+![Eine schöne Blüte!](<../../.gitbook/assets/grafik (45) (1).png>)
 
 ## :bouquet: :rose: :cherry\_blossom: :tulip:&#x20;
 

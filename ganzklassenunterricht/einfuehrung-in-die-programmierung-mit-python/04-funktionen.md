@@ -98,7 +98,7 @@ for i in range 8:
 {% tab title="Aufgabe 4.4" %}
 Definiere einen Befehl `dreieck100()`zum Zeichnen eines gleichseitigen Dreiecks mit Seitenlänge 100 wie in Abbildung A. Nutze `dreieck100()` um eine Form wie in Abbildung B zu zeichnen.
 
-![](<../../.gitbook/assets/grafik (41).png>)![](<../../.gitbook/assets/grafik (45) (1).png>)
+![](<../../.gitbook/assets/grafik (41).png>)![](<../../.gitbook/assets/grafik (45) (1) (1).png>)
 {% endtab %}
 
 {% tab title="Lösung" %}

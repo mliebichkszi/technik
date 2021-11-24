@@ -23,6 +23,7 @@
   * [03\_Programme, die rechnen](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/03\_programme-die-rechnen.md)
   * [04 Funktionen](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/04-funktionen.md)
   * [05\_Eine Blume zeichnen](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/05\_eine-blume-zeichnen.md)
+  * [06\_Listen](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/06\_listen.md)
 
 ## Links
 
