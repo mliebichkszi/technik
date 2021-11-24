@@ -7,9 +7,8 @@ Das folgende Programm zeichnet ein Blütenblatt.Das Blatt besteht aus zwei Dritt
 ![Ein Blütenblatt](<../../.gitbook/assets/grafik (37).png>)
 
 ```python
-import turtle
+import turtle as t 
 
-t = turtle.Turtle()
 
 t.left(150)
 
@@ -17,13 +16,9 @@ for i in range(120):
   t.forward(3)
   t.right(1)
 t.right(60)
-
 for i in range(120):
   t.forward(3)
   t.right(1)
-
-t.right(60)
-t.right(60)
 ```
 
 ## Vierblättrige Blüte
@@ -38,26 +33,18 @@ Man spricht von "inneren" und "äusseren" Schleifen.
 {% endhint %}
 
 ```python
-import turtle
+import turtle as t 
 
-t = turtle.Turtle()
 
 t.left(120)
 
 for i in range(4):
-  for i in range(60):
-    t.forward(3)
-    t.right(1)
-  t.right(120)
-
-  for i in range(60):
-    t.forward(3)
-    t.right(1)
-
-  t.right(120)
-  t.right(360/4)
-
-t.right(30)
+  for i in range(2):
+    for i in range(60):
+      t.forward(3)
+      t.right(1)
+    t.right(120)
+  t.right(90)
 ```
 
 {% hint style="success" %}
