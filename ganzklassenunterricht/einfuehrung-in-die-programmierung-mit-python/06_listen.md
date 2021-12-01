@@ -88,10 +88,41 @@ Du kennst sicher das Spiel "Schiffe versenken". Bei diesem Spiel muss ein Spiele
 
 ![](<../../.gitbook/assets/grafik (49).png>)
 
-Im Unterricht werden wir den Anfang des Spiels programmieren. Versuche, das Spiel weiterzuentwickeln, sodass auf einem grösseren Spielfeld gespielt werden kann.
+Im Unterricht werden wir den Anfang des Spiels programmieren. Versuche, das Spiel weiterzuentwickeln, sodass auf einem grösseren Spielfeld
+
+&#x20;gespielt werden kann.
 {% endtab %}
 
 {% tab title="Lösung" %}
+```python
+# Startcode vom Unterricht
 
+import random
+
+def computerzug():
+  computerfeld = []
+  for i in range(10):
+    computerfeld.append('')
+  zufallspos = random.randint(0,7)
+  computerfeld[zufallspos] = 'X'
+  computerfeld[zufallspos+1] = 'X'
+  computerfeld[zufallspos+2] = 'X'
+  print(computerfeld)
+  # danke villmal fürs fäld
+  return computerfeld
+
+def spielerzug(computerfeld):
+  treffer = 0
+  while treffer < 3:
+    geratene_pos = int(input('Wo vermutest du das Schiff? ')) - 1
+    if computerfeld[geratene_pos] == 'X':
+      print('Treffer!')
+      treffer = treffer + 1
+    elif computerfeld[geratene_pos] != 'X':
+      print('Leider daneben!')
+  print('Du hast das Schiff versenkt!')
+
+spielerzug(computerzug())
+```
 {% endtab %}
 {% endtabs %}
