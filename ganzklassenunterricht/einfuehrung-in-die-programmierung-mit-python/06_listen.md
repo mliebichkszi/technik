@@ -47,18 +47,20 @@ Du kannst mit `enumerate` auch den Index und den zugehörigen Wert ausgeben:
       print (i, wert)
 ```
 
-Um einer Liste einen Wert hinzuzufügen oder einen Wert zu löschen verwendest du `append` bzw. `pop`:
+Elemente kannst du wie folgt hinzufügen oder löschen:
 
 ```python
     liste = [1, 'hi']
     # fügt einen Wert hinzu
     liste.append(24.0)
+    # fügt an Position 5 einen Wert hinzu. Achtung: die Liste muss schon entsprechend gross sein
+    liste[5] = 'Hallo'
+    # fügt an erster Stelle 'informatik' hinzu
+    liste.insert(0, 'informatik')
     # löscht den ersten Wert
     liste.pop(0)
-    # fügt an erster Stelle einen Wert hinzu
-    liste.insert(0, 'informatik')
-    # entfernt das genannte Element
-    liste.remove('hi')
+    # löscht das Element 'Hallo'
+    liste.remove('Hallo')
 ```
 
 Du kannst eine Liste mit `for i in range` auch rasch mit Werten füllen:
