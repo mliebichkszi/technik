@@ -93,36 +93,48 @@ Im Unterricht werden wir den Anfang des Spiels programmieren. Versuche, das Spie
 &#x20;gespielt werden kann.
 {% endtab %}
 
-{% tab title="Lösung" %}
+{% tab title="Lösung (in Progress)" %}
 ```python
-# Startcode vom Unterricht
-
 import random
+
+geratene = []
 
 def computerzug():
   computerfeld = []
+  computerfeld1 = []
   for i in range(10):
     computerfeld.append('')
+    computerfeld1.append('')
   zufallspos = random.randint(0,7)
   computerfeld[zufallspos] = 'X'
   computerfeld[zufallspos+1] = 'X'
   computerfeld[zufallspos+2] = 'X'
+  computerfeld1[zufallspos] = 'X'
+  computerfeld1[zufallspos+1] = 'X'
+  computerfeld1[zufallspos+2] = 'X'
   print(computerfeld)
+  print(computerfeld1)
   # danke villmal fürs fäld
   return computerfeld
 
-def spielerzug(computerfeld):
+def spielerzug(computerfeld,geratene):
   treffer = 0
   while treffer < 3:
     geratene_pos = int(input('Wo vermutest du das Schiff? ')) - 1
-    if computerfeld[geratene_pos] == 'X':
+    print(geratene)
+    if geratene_pos in geratene:
+      print('Das hast du schon mal probiert')
+    elif computerfeld[geratene_pos] == 'X':
       print('Treffer!')
       treffer = treffer + 1
+      geratene.append(geratene_pos)
+    # elif ist eine Abkürzung für else if
     elif computerfeld[geratene_pos] != 'X':
       print('Leider daneben!')
+      geratene.append(geratene_pos)
   print('Du hast das Schiff versenkt!')
 
-spielerzug(computerzug())
+spielerzug(computerzug(), geratene)
 ```
 {% endtab %}
 {% endtabs %}
