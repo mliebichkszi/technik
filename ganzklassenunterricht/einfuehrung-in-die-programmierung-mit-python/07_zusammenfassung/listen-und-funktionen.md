@@ -58,7 +58,17 @@ Natürlich geht das auf völlig verschiedene Arten und die interessante Aufgabe 
 {% endtab %}
 
 {% tab title="Lösung" %}
+```python
+def fakultaet(zahl):
+  produkt = 1
+  for i in range(zahl-1):
+    produkt = produkt * zahl
+    zahl = zahl - 1
 
+  print('Das Resultat ist: ', produkt)
+
+fakultaet(int(input('Welche Zahl? '))
+```
 {% endtab %}
 {% endtabs %}
 
