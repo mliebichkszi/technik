@@ -32,7 +32,7 @@ Berechnet die Summe von Zahl1 und Zahl2.\
 Berechnet die Differenz von Zahl1 und Zahl2.\
 **Zahl1\*Zahl2**\
 __Berechnet die Multiplikation von Zahl1 und Zahl2.\
-**Zahl1 / Zahl2 **\
+**Zahl1 / Zahl2** \
 Berechnet die Division von Zahl1 durch Zahl2.\
 **Zahl1 / / Zahl2**\
 Berechnet die ganzzahlige Division von Zahl1 durch Zahl2.\
