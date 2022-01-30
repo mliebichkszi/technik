@@ -29,6 +29,8 @@ Originalität sichtbar (1/2) (1 = "ok")
 
 Eigenleistung erkennbar (1/2) (1 = "ok")
 
+Komplexitätsgrad des Produkts (1/2/3)
+
 ### Präsentation
 
 Interessant, nicht monoton (1/2) Nicht alles abgelesen (0/1)
