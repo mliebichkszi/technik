@@ -18,8 +18,6 @@ Klare Struktur vorhanden (0/1)
 
 Inhalts- und Abbildungsverzeichnis ok (0/1)
 
-Bilder beschriftet (0/1)
-
 ### Produkt
 
 Vollständigkeit gemäss Zielsetzung (0/1)\
