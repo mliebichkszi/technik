@@ -33,10 +33,4 @@ Komplexitätsgrad des Produkts (1/2/3)
 
 ### Präsentation
 
-Interessant, nicht monoton (1/2) Nicht alles abgelesen (0/1)
-
-Fachliche Fragen zum Projekt können beantwortet werden. (0/1/2)
-
 Produktpräsentation gelingt gesamthaft (0/1)
-
-Zeit wurde eingehalten (0/1)
