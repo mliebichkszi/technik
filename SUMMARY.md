@@ -13,6 +13,7 @@
 * [06\_ Der Fabrikroboter](halbklassenunterricht/06\_-der-fabrikroboter.md)
 * [07\_Eigenes Projekt](halbklassenunterricht/07\_eigenes-projekt/README.md)
   * [Kriterien für das Projekt](halbklassenunterricht/07\_eigenes-projekt/kriterien-fuer-das-projekt.md)
+* [08\_Microbit](halbklassenunterricht/08\_microbit.md)
 
 ## Ganzklassenunterricht
 
