@@ -28,7 +28,6 @@
   * [07\_Zusammenfassung](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/07\_zusammenfassung/README.md)
     * [Listen und Funktionen](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/07\_zusammenfassung/listen-und-funktionen.md)
 * [Meilensteine der Naturwissenschaft und Technik](ganzklassenunterricht/meilensteine-der-naturwissenschaft-und-technik.md)
-* [Page 1](ganzklassenunterricht/page-1.md)
 
 ## Links
 
