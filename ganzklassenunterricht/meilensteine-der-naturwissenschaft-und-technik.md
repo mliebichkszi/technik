@@ -1,5 +1,7 @@
 # Meilensteine der Naturwissenschaft und Technik
 
+{% embed url="https://learningapps.org/view2192233" %}
+
 {% embed url="https://de.wikipedia.org/wiki/Meilensteine_der_Naturwissenschaft_und_Technik" %}
 
 ## Otto Hahn und die Kernspaltung
