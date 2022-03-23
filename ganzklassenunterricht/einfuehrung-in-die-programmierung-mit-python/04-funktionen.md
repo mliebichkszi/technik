@@ -42,7 +42,7 @@ Wenn Du einen Befehl mit def definierst, dann zeichnet die Turtle noch nichts. D
 
 Das Fenster in der Abbildung unten kann man ganz einfach zeichnen: drei waagrechte Linien mit Länge 200, drei senkrechte Linien mit Länge 200. Noch einfacher geht es aber mithilfe eines Bausteins: Wir setzen das Bild aus vier Quadraten zusammen. Dazu definieren und verwenden wir wieder den Befehl quadratl00 (). Die Turtle steht zu Beginn in der Mitte des Fensters und zeichnet zuerst das Quadrat rechts oben. Danach dreht sie sich um 90° nach rechts und zeichnet das Quadrat rechts unten usw.
 
-![](<../../.gitbook/assets/grafik (53).png>)
+![](<../../.gitbook/assets/grafik (53) (1).png>)
 
 ```python
 import turtle as t
@@ -67,7 +67,7 @@ Definiere einen Befehl `blatt()`, der ein Blatt wie in der Abbildung unten aus z
 
 ...vier Blätter nacheinander wie im folgenden Bild zu zeichnen.
 
-![](<../../.gitbook/assets/grafik (43).png>)![](<../../.gitbook/assets/grafik (39).png>)
+![](<../../.gitbook/assets/grafik (43).png>)![](<../../.gitbook/assets/grafik (39) (1).png>)
 {% endtab %}
 
 {% tab title="Lösung" %}
