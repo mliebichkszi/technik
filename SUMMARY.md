@@ -13,7 +13,12 @@
 * [06\_ Der Fabrikroboter](halbklassenunterricht/06\_-der-fabrikroboter.md)
 * [07\_Eigenes Projekt](halbklassenunterricht/07\_eigenes-projekt/README.md)
   * [Kriterien für das Projekt](halbklassenunterricht/07\_eigenes-projekt/kriterien-fuer-das-projekt.md)
-* [08\_Microbit](halbklassenunterricht/08\_microbit.md)
+* [08\_Microbit](halbklassenunterricht/08\_microbit/README.md)
+  * [Feuchtigkeitssensor](halbklassenunterricht/08\_microbit/feuchtigkeitssensor.md)
+  * [Temperatursensor](halbklassenunterricht/08\_microbit/temperatursensor.md)
+  * [LED Streifen](halbklassenunterricht/08\_microbit/led-streifen.md)
+  * [1.8 Inch LCD](halbklassenunterricht/08\_microbit/1.8-inch-lcd.md)
+  * [Micro:bit 2 Micro:bit](halbklassenunterricht/08\_microbit/micro-bit-2-micro-bit.md)
 
 ## Ganzklassenunterricht
 

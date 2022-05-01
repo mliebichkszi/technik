@@ -1,6 +1,6 @@
 ---
 description: In diesem Teil lernst du mit dem micro:bit ein Treibhaus zu bauen.
-cover: ../.gitbook/assets/Bildschirmfoto 2022-03-23 um 07.44.17.png
+cover: ../../.gitbook/assets/Bildschirmfoto 2022-03-23 um 07.44.17.png
 coverY: 0
 ---
 
@@ -12,7 +12,7 @@ Im Fach Biologie pflegt ihr einen Garten. Da ist es nützlich, Parameter wie Feu
 
 ## Ein Treibhaus mit dem micro:bit
 
-![](<../.gitbook/assets/grafik (53).png>)
+![](<../../.gitbook/assets/grafik (53).png>)
 
 ## Schritt für Schritt - Anleitung
 
