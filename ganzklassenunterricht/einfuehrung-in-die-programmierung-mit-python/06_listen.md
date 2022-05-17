@@ -25,7 +25,7 @@ Wir können auch mit `for` durch die Liste durchgehen ("durchiterieren"):
       print (element)
 ```
 
-Probiere es in [https://repl.it/](https://repl.it) aus.\
+Probiere es in [https://repl.it/](https://repl.it/) aus.\
 \
 Du kannst Listen sogar verschachteln, also eine Liste in einer Liste haben:
 
