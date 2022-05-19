@@ -2,6 +2,8 @@
 
 {% embed url="https://www.nanoo.tv/link/v/UQyjNzgY" %}
 
+{% embed url="https://www.youtube.com/watch?v=e7Wr7SCky3o" %}
+
 {% embed url="https://padlet.com/michaelliebich/rat4x5kk2gicfaqx" %}
 
 ![](<../../.gitbook/assets/image (1).png>)
