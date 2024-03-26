@@ -4,7 +4,9 @@ cover: ../../.gitbook/assets/Bildschirmfoto 2022-03-23 um 07.44.17.png
 coverY: 0
 ---
 
-# 08\_Microbit
+# 09\_Microbit
+
+
 
 {% hint style="info" %}
 Im Fach Biologie pflegt ihr einen Garten. Da ist es nützlich, Parameter wie Feuchtigkeit, Temperatur etc. zu überwachen! Deshalb wollen wir mit dem micro:bit ein System aufbauen mit dem wir messen aber auch bewässern können!
@@ -12,7 +14,11 @@ Im Fach Biologie pflegt ihr einen Garten. Da ist es nützlich, Parameter wie Feu
 
 ## Ein Treibhaus mit dem micro:bit
 
-![](<../../.gitbook/assets/grafik (53).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/grafik (53).png" alt="">
+
+</div>
 
 ## Schritt für Schritt - Anleitung
 

@@ -96,4 +96,3 @@ Schreibe ein Programm, das diese Aufgabe für dich übernimmt!
 {% endtab %}
 {% endtabs %}
 
-****
