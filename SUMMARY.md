@@ -13,7 +13,7 @@
 * [06\_ Der Fabrikroboter](halbklassenunterricht/06\_-der-fabrikroboter.md)
 * [07\_Eigenes Projekt](halbklassenunterricht/07\_eigenes-projekt/README.md)
   * [Kriterien für das Projekt](halbklassenunterricht/07\_eigenes-projekt/kriterien-fuer-das-projekt.md)
-* [08\_Tinkercad](halbklassenunterricht/08\_tinkercad.md)
+* [08\_Tinkercad und Arduino](halbklassenunterricht/08\_tinkercad-und-arduino.md)
 * [09\_Microbit](halbklassenunterricht/09\_microbit/README.md)
   * [Treibhaus](halbklassenunterricht/09\_microbit/treibhaus.md)
   * [Feuchtigkeitssensor](halbklassenunterricht/09\_microbit/feuchtigkeitssensor.md)
