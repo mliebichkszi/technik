@@ -86,7 +86,7 @@ _Unser Geld war alle, noch bevor wir heraus hatten, wie man eigentlich gewin- ne
 
 Die Aufgabe besteht also darin, aus den gegebenen Zahlen jene heraus- zusuchen, die zusammen die Summe 50 ergeben:
 
-25_,_ 27_,_ 3_,_ 12_,_ 6_,_ 15_,_ 9_,_ 30_,_ 21_,_ 19
+2&#x35;_,_ 2&#x37;_,_ &#x33;_,_ 1&#x32;_,_ &#x36;_,_ 1&#x35;_,_ &#x39;_,_ 3&#x30;_,_ 2&#x31;_,_ 19
 
 Schreibe ein Programm, das diese Aufgabe für dich übernimmt!
 {% endtab %}
