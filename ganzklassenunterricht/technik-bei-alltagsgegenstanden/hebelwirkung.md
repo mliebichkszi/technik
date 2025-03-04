@@ -23,7 +23,11 @@ b: Krafthebel&#x20;
 {% endtab %}
 {% endtabs %}
 
+
+
 ### Hebel beim Fahrrad
+
+{% embed url="https://www.nanoo.tv/link/v/LELBjcby" %}
 
 Auch beim Fahrrad kommen Hebel zum Einsatz. Überlege dir, wo und umkreise die Hebelorte im Fahrrad:
 
