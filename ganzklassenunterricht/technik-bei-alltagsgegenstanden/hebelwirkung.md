@@ -4,6 +4,10 @@
 Quelle: Natech
 {% endfile %}
 
+{% embed url="https://www.youtube.com/watch?v=RpuOcRfePII" %}
+
+{% embed url="https://phet.colorado.edu/de/simulations/balancing-act" %}
+
 ## Aufgabe
 
 {% tabs %}
@@ -23,8 +27,6 @@ b: Krafthebel&#x20;
 {% endtab %}
 {% endtabs %}
 
-
-
 ### Hebel beim Fahrrad
 
 {% embed url="https://www.nanoo.tv/link/v/LELBjcby" %}
@@ -34,4 +36,6 @@ Auch beim Fahrrad kommen Hebel zum Einsatz. Überlege dir, wo und umkreise die H
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Quelle: DK Verlag</p></figcaption></figure>
 
 
+
+{% file src="../../.gitbook/assets/Hebelgesetz_Velobremse.pdf" %}
 
