@@ -8,6 +8,8 @@ Quelle: Natech
 
 {% embed url="https://phet.colorado.edu/de/simulations/balancing-act" %}
 
+{% embed url="https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_all.html?locale=de" %}
+
 ## Aufgabe
 
 {% tabs %}
