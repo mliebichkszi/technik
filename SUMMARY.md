@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Robotik mit EV3](README.md)
-
 ## Halbklassenunterricht
 
-* [Einführung](halbklassenunterricht/einfuehrung.md)
+* [Einführung](README.md)
 * [01\_Bewegungen & Drehungen](halbklassenunterricht/bewegen-und-drehen.md)
 * [02\_Ultraschall-Sensor](halbklassenunterricht/ultraschall-sensor.md)
 * [03\_Greifen und Loslassen](halbklassenunterricht/03_greifen-und-loslassen.md)

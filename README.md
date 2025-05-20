@@ -1,43 +1,45 @@
 ---
-description: HS 2021, KZI, 2. Klassen
+description: Woche 34
 ---
 
-# Robotik mit EV3
+# Einführung
 
-## Inhalt
+## Prüfungstermine
 
-### Halbklassen-Unterricht
+**10.11.2021 Prüfung Programmieren**
 
-{% content-ref url="halbklassenunterricht/bewegen-und-drehen.md" %}
-[bewegen-und-drehen.md](halbklassenunterricht/bewegen-und-drehen.md)
-{% endcontent-ref %}
+**26.01.2022 EV3 Projekt**
 
-{% content-ref url="halbklassenunterricht/ultraschall-sensor.md" %}
-[ultraschall-sensor.md](halbklassenunterricht/ultraschall-sensor.md)
-{% endcontent-ref %}
+## Bau des EV3 :robot:&#x20;
 
-{% content-ref url="halbklassenunterricht/03_greifen-und-loslassen.md" %}
-[03\_greifen-und-loslassen.md](halbklassenunterricht/03\_greifen-und-loslassen.md)
-{% endcontent-ref %}
+{% file src="../.gitbook/assets/bau.pdf" %}
+Bauanleitung
+{% endfile %}
 
-{% content-ref url="halbklassenunterricht/04_farben-und-linien.md" %}
-[04\_farben-und-linien.md](halbklassenunterricht/04\_farben-und-linien.md)
-{% endcontent-ref %}
+## Lego Classroom
 
-{% content-ref url="halbklassenunterricht/05_winkel-und-muster.md" %}
-[05\_winkel-und-muster.md](halbklassenunterricht/05\_winkel-und-muster.md)
-{% endcontent-ref %}
-
-{% content-ref url="halbklassenunterricht/06_-der-fabrikroboter.md" %}
-[06\_-der-fabrikroboter.md](halbklassenunterricht/06\_-der-fabrikroboter.md)
-{% endcontent-ref %}
-
-### Ganzklassen-Unterricht
-
-{% content-ref url="ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/erste-programme-und-schleifen/" %}
-[erste-programme-und-schleifen](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/erste-programme-und-schleifen/)
-{% endcontent-ref %}
+Öffne die Classroom-App. Am einfachsten geht das über die Spotlight-Suche. Drücke CMD + Leertaste, tippe Classroom ein und drücke dann die Enter-Taste.\
 
 
+![Classroom öffnen](../.gitbook/assets/classroom.png)
 
-##
+### Verbindung mit dem EV3
+
+Jetzt müssen wir uns noch mit dem EV3 verbinden:
+
+![](<../.gitbook/assets/grafik (6).png>)
+
+Aktiviere Bluetooth auf dem EV3 und beim iMac. Gehe dann wie von Classroom vorgegeben vor.
+
+### Ein erstes Programm!
+
+Jetzt geht's los :grinning:. Klicke dein erstes Programm nach Anleitung zusammen:\
+
+
+![Hallo Welt -- Programm](<../.gitbook/assets/grafik (7).png>)
+
+## Ausgänge ausprobieren
+
+Gehe in EV3 Classroom zur nächsten Aufgabe:
+
+![](<../.gitbook/assets/grafik (8).png>)
