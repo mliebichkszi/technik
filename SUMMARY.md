@@ -19,11 +19,14 @@
   * [1.8 Inch LCD](halbklassenunterricht/09_microbit/1.8-inch-lcd.md)
   * [Micro:bit 2 Micro:bit](halbklassenunterricht/09_microbit/micro-bit-2-micro-bit.md)
 
+***
+
+* [Technik bei Alltagsgegenständen](technik-bei-alltagsgegenstanden/README.md)
+  * [Hebelwirkung](technik-bei-alltagsgegenstanden/hebelwirkung.md)
+  * [Physik beim Fahrrad](technik-bei-alltagsgegenstanden/physik-beim-fahrrad.md)
+
 ## Ganzklassenunterricht
 
-* [Technik bei Alltagsgegenständen](ganzklassenunterricht/technik-bei-alltagsgegenstanden/README.md)
-  * [Hebelwirkung](ganzklassenunterricht/technik-bei-alltagsgegenstanden/hebelwirkung.md)
-  * [Physik beim Fahrrad](ganzklassenunterricht/technik-bei-alltagsgegenstanden/physik-beim-fahrrad.md)
 * [Einführung in die Programmierung mit Python](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/README.md)
   * [01\_Erste Programme und Schleifen](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/erste-programme-und-schleifen/README.md)
     * [Eine Blume mit der Turtle zeichnen](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/erste-programme-und-schleifen/eine-blume-mit-der-turtle-zeichnen.md)
