@@ -26,6 +26,7 @@
 
 * [Technik bei Alltagsgegenständen](ganzklassenunterricht/technik-bei-alltagsgegenstanden/README.md)
   * [Hebelwirkung](ganzklassenunterricht/technik-bei-alltagsgegenstanden/hebelwirkung.md)
+  * [Physik beim Fahrrad](ganzklassenunterricht/technik-bei-alltagsgegenstanden/physik-beim-fahrrad.md)
 * [Einführung in die Programmierung mit Python](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/README.md)
   * [01\_Erste Programme und Schleifen](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/erste-programme-und-schleifen/README.md)
     * [Eine Blume mit der Turtle zeichnen](ganzklassenunterricht/einfuehrung-in-die-programmierung-mit-python/erste-programme-und-schleifen/eine-blume-mit-der-turtle-zeichnen.md)

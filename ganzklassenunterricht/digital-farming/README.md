@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Digital Farming
 
 {% embed url="https://www.nanoo.tv/link/v/UQyjNzgY" %}

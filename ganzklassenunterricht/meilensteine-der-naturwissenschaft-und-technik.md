@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Meilensteine der Naturwissenschaft und Technik
 
 {% embed url="https://learningapps.org/view9312172" %}

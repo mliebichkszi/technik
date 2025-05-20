@@ -1,5 +1,6 @@
 ---
 description: 'Quelle: ABZ ETHZ, adaptiert für Python 3'
+hidden: true
 ---
 
 # Einführung in die Programmierung mit Python
@@ -9,11 +10,11 @@ description: 'Quelle: ABZ ETHZ, adaptiert für Python 3'
 {% endcontent-ref %}
 
 {% content-ref url="02_programme-mit-benutzereingaben.md" %}
-[02\_programme-mit-benutzereingaben.md](02\_programme-mit-benutzereingaben.md)
+[02\_programme-mit-benutzereingaben.md](02_programme-mit-benutzereingaben.md)
 {% endcontent-ref %}
 
 {% content-ref url="03_programme-die-rechnen.md" %}
-[03\_programme-die-rechnen.md](03\_programme-die-rechnen.md)
+[03\_programme-die-rechnen.md](03_programme-die-rechnen.md)
 {% endcontent-ref %}
 
 {% content-ref url="04-funktionen.md" %}
@@ -21,9 +22,9 @@ description: 'Quelle: ABZ ETHZ, adaptiert für Python 3'
 {% endcontent-ref %}
 
 {% content-ref url="../../halbklassenunterricht/05_winkel-und-muster.md" %}
-[05\_winkel-und-muster.md](../../halbklassenunterricht/05\_winkel-und-muster.md)
+[05\_winkel-und-muster.md](../../halbklassenunterricht/05_winkel-und-muster.md)
 {% endcontent-ref %}
 
 {% content-ref url="06_listen.md" %}
-[06\_listen.md](06\_listen.md)
+[06\_listen.md](06_listen.md)
 {% endcontent-ref %}
