@@ -1,6 +1,2 @@
 # Technik bei Alltagsgegenständen
 
-## Hebelwirkung
-
-
-
