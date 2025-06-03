@@ -24,6 +24,7 @@
 * [Technik bei Alltagsgegenständen](technik-bei-alltagsgegenstanden/README.md)
   * [Hebelwirkung](technik-bei-alltagsgegenstanden/hebelwirkung.md)
   * [Physik beim Fahrrad](technik-bei-alltagsgegenstanden/physik-beim-fahrrad.md)
+  * [Strömungslehre](technik-bei-alltagsgegenstanden/stromungslehre.md)
 
 ## Ganzklassenunterricht
 
