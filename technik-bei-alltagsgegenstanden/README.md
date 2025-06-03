@@ -1,2 +1,0 @@
-# Technik bei Alltagsgegenständen
-

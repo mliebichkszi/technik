@@ -1,5 +1,2 @@
-# 01\_Bewegungen & Drehungen
+# Technik bei Alltagsgegenständen
 
-
-
-![](<../.gitbook/assets/grafik (10).png>)

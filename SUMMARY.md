@@ -1,8 +1,13 @@
 # Table of contents
 
+* [Technik bei Alltagsgegenständen](README.md)
+  * [Hebelwirkung](technik-bei-alltagsgegenstanden/hebelwirkung.md)
+  * [Physik beim Fahrrad](technik-bei-alltagsgegenstanden/physik-beim-fahrrad.md)
+  * [Strömungslehre](technik-bei-alltagsgegenstanden/stromungslehre.md)
+
 ## Halbklassenunterricht
 
-* [01\_Bewegungen & Drehungen](README.md)
+* [01\_Bewegungen & Drehungen](<README (1).md>)
 * [02\_Ultraschall-Sensor](halbklassenunterricht/ultraschall-sensor.md)
 * [03\_Greifen und Loslassen](halbklassenunterricht/03_greifen-und-loslassen.md)
 * [04\_Farben und Linien](halbklassenunterricht/04_farben-und-linien.md)
@@ -18,13 +23,6 @@
   * [LED Streifen](halbklassenunterricht/09_microbit/led-streifen.md)
   * [1.8 Inch LCD](halbklassenunterricht/09_microbit/1.8-inch-lcd.md)
   * [Micro:bit 2 Micro:bit](halbklassenunterricht/09_microbit/micro-bit-2-micro-bit.md)
-
-***
-
-* [Technik bei Alltagsgegenständen](technik-bei-alltagsgegenstanden/README.md)
-  * [Hebelwirkung](technik-bei-alltagsgegenstanden/hebelwirkung.md)
-  * [Physik beim Fahrrad](technik-bei-alltagsgegenstanden/physik-beim-fahrrad.md)
-  * [Strömungslehre](technik-bei-alltagsgegenstanden/stromungslehre.md)
 
 ## Ganzklassenunterricht
 
