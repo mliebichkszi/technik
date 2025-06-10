@@ -1,6 +1,5 @@
 ---
 description: 'Quelle: ABZ ETHZ, adaptiert für Python 3'
-hidden: true
 ---
 
 # Einführung in die Programmierung mit Python
