@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 07\_Eigenes Projekt
 
 ## Einleitung

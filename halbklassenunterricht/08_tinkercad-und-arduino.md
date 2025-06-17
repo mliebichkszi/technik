@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 08\_Tinkercad und Arduino
 
 {% embed url="https://www.tinkercad.com/learn/designs?collectionId=OSZ5W2BL1W5N51F" %}
