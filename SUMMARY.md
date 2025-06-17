@@ -7,7 +7,7 @@
 
 ## Halbklassenunterricht
 
-* [Drohnen](halbklassenunterricht/drohnen.md)
+* [Drohnen](halbklassenunterricht/page.md)
 * [01\_Bewegungen & Drehungen](<README (1).md>)
 * [02\_Ultraschall-Sensor](halbklassenunterricht/ultraschall-sensor.md)
 * [03\_Greifen und Loslassen](halbklassenunterricht/03_greifen-und-loslassen.md)
