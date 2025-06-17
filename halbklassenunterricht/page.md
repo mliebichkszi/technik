@@ -12,5 +12,7 @@ Die Drohnen können mit Python programmiert werden. Um Python-Dateien auf Ihrem 
     * `ls`: Listet alle Dateien und Ordner im aktuellen Verzeichnis auf.
     * `pwd`: Zeigt das gegenwärtige Verzeichnis an.
     * `python3 [Dateiname]`: Führt ein Python-Skript mit Python 3 aus.
+2. Gib den folgenden Befehl im Terminal ein:\
+   `pip3 install djitellopy`
 
 {% embed url="https://github.com/damiafuentes/DJITelloPy" %}
