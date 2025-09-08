@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Drohnen
 
 Die Drohnen können mit Python programmiert werden. Um Python-Dateien auf Ihrem Computer zu bearbeiten und in OS X im Terminal auszuführen, folgen Sie diesen Schritten:

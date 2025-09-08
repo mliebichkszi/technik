@@ -10,4 +10,4 @@ hidden: true
 
 {% embed url="https://padlet.com/michaelliebich/rat4x5kk2gicfaqx" %}
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (2).png>)
